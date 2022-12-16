@@ -33,8 +33,7 @@ This project can be used to determine what kind of campaign, promo, or discount 
 ![image](https://user-images.githubusercontent.com/105413896/208016762-2f59e0e3-e7dc-433f-9560-c9040e91e236.png)
 For example, based on this result of course we want to prioritize hibernating customer to give them some kind of engagement so they wont churn in the future and hopefully still interested with our business.
 
-For full version of code, please check the link below
-https://github.com/aryaoctav/Workshop_Manual-RFM-Clustering/blob/main/RFM%20Workshop_Arya.ipynb
+[Check full version code](https://github.com/aryaoctav/Workshop_Manual-RFM-Clustering/blob/main/RFM%20Workshop_Arya.ipynb)
 
 ## Contributing
 
