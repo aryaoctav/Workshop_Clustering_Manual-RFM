@@ -14,8 +14,8 @@ Before starting the project with your own local computer, you need to prepare a 
 * [Download Anaconda](https://www.anaconda.com/products/distribution)
  
 ### Installation
-1 First, After finish installing your Anaconda Navigator you need to install Python environment at least Python 3.9.12 or the latest version on your local. For my first time, I just followed the instruction from this content => [Install Python Environtment](https://www.youtube.com/watch?v=5mDYijMfSzs) 
-2 Secondly, install all of libraries on your Jupyter Notebook by entering these commands
+1. First, After finish installing your Anaconda Navigator you need to install Python environment at least Python 3.9.12 or the latest version on your local. For my first time, I just followed the instruction from this content => [Install Python Environtment](https://www.youtube.com/watch?v=5mDYijMfSzs) 
+2. Secondly, install all of libraries on your Jupyter Notebook by entering these commands
 ```sh
 pip install pandas
 ```
@@ -25,8 +25,8 @@ pip install DateTime
 ```sh
 pip install matplotlib
 ```
-3 Next, download the dataset => [Dataset](https://github.com/aryaoctav/Workshop_Manual-RFM-Clustering/blob/main/Online%20Retail.xlsx)
-4 Then, Import the dataset using pandas function for excel
+3. Next, download the dataset => [Dataset](https://github.com/aryaoctav/Workshop_Manual-RFM-Clustering/blob/main/Online%20Retail.xlsx)
+4. Then, Import the dataset using pandas function for excel
 
 ## Usage
 This project can be used to determine what kind of campaign, promo, or discount that suits for each type of customers.
