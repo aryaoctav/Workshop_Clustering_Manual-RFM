@@ -1,4 +1,4 @@
-# Workshop_Manual-RFM-Clustering
+# Workshop : Clustering Manual RFM
 
 ## About the Project
 
