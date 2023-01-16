@@ -3,7 +3,7 @@
 ## About the Project
 
 * Title : Manual Customer Segmentation Using RFM Clustering for Online Retail Dataset
-* Description : This project aims to segment customers using the RFM (Recency, Frequency, and Monetary) method to analyze customer behavior and identify customers who are most likely to respond to different marketing methods.
+* Description : This project aims to segment customers using the RFM (Recency, Frequency, and Monetary) method, analyze customer behavior, and identify customers who are most likely to respond to different marketing methods.
 * Library : `pandas` is used for dataset manipulation, `datetime` is used for date and time manipulating dates and times, `matplotlib.pyplot` is used for making visualization, and `warnings` is used for ignoring unnecessary alert for some code.
 
 ## Getting Started
